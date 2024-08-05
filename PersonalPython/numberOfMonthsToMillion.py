@@ -22,7 +22,7 @@ def calculate_months_to_target(principal, monthly_contribution, annual_rate, tar
 
 
 # Example parameters
-initial_principal = 360000
+initial_principal = 500000
 monthly_contribution = 0
 annual_interest_rate = 24
 target_amount = 6000000
