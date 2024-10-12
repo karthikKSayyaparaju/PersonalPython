@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1f89426-e20f-4756-894c-48ef5e162352" name="Changes" comment="" />
+    <list default="true" id="d1f89426-e20f-4756-894c-48ef5e162352" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/creditCards_minimum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timeCalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/futureGoals/farmland_goals" beforeDir="false" afterPath="$PROJECT_DIR$/futureGoals/farmland_goals" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -31,7 +43,7 @@
       <recent name="$PROJECT_DIR$/my_stocks_future" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.rb">
+  <component name="RunManager" selected="Python.timeCalculator">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PersonalPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="takeHomeCalculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="timeCalculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PersonalPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/takeHomeCalculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/timeCalculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,19 +172,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.timeCalculator" />
       <item itemvalue="Python.linkedin" />
       <item itemvalue="Python.imessage" />
       <item itemvalue="Python.rb" />
       <item itemvalue="Python.numberOfMonthsToMillion" />
-      <item itemvalue="Python.takeHomeCalculator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.timeCalculator" />
         <item itemvalue="Python.rb" />
         <item itemvalue="Python.linkedin" />
         <item itemvalue="Python.imessage" />
         <item itemvalue="Python.numberOfMonthsToMillion" />
-        <item itemvalue="Python.takeHomeCalculator" />
       </list>
     </recent_temporary>
   </component>
